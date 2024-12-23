@@ -34,24 +34,12 @@ AQ Qwerty became the best-selling product among 16 new launches in 2021, achievi
 **✔ Seasonal Trends:** Significant sales spikes occurred from October to December, indicating peak demand periods.
 **✔ Division Performance:** The P&A division recorded $338.4 million in net sales, leading in 2021.
 # Technologies Used ⚙
-**Tools:** Excel, Power Query, Power Pivot, Power BI
+**Tools:** Excel, Power Query, Power Pivot, Power BI  
+
 **Techniques:** ETL, Star Schema Design, DAX for custom calculations, Conditional Formatting
 # Key Takeaways 💡
 This project highlighted the importance of structured data and advanced analytics in uncovering opportunities for growth. The use of dynamic dashboards, detailed financial reports, and targeted insights enabled AtliQ Hardware to refine sales strategies, monitor KPIs, and improve overall performance.
 
-Would you like to tweak any section or add more details?
-
-
-
-
-
-
-You said:
-AQ Mx NB saw the highest growth in net sales (2020–2021).
-AQ Qwerty became the best-selling product among 16 new launches in 2021, achieving $22 million in sales.
-what is AQ Mx NB Querty
-ChatGPT said:
-ChatGPT
 "AQ Mx NB" and "AQ Qwerty" are fictional product names often used in case studies or projects to simulate real-world scenarios. They represent specific products sold by AtliQ Hardware in your project.
 
 AQ Mx NB: This could represent a product like a laptop, notebook, or a similar hardware item that showed significant growth in sales between 2020 and 2021.
