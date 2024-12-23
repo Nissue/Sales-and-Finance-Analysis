@@ -45,9 +45,3 @@ AQ Qwerty became the best-selling product among 16 new launches in 2021, achievi
 
 # Key Takeaways 💡
 This project highlighted the importance of structured data and advanced analytics in uncovering opportunities for growth. The use of dynamic dashboards, detailed financial reports, and targeted insights enabled AtliQ Hardware to refine sales strategies, monitor KPIs, and improve overall performance.
-
-"AQ Mx NB" and "AQ Qwerty" are fictional product names often used in case studies or projects to simulate real-world scenarios. They represent specific products sold by AtliQ Hardware in your project.
-
-AQ Mx NB: This could represent a product like a laptop, notebook, or a similar hardware item that showed significant growth in sales between 2020 and 2021.
-AQ Qwerty: This might symbolize a product like a keyboard or another peripheral device, which became a top seller among new launches in 2021.
-These names are placeholders to make the analysis relatable and engaging while maintaining the anonymity of actual product data. If you're presenting your project, you can clarify that these are simulated names for illustrative purposes.
