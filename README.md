@@ -1,4 +1,4 @@
-Sales and Finance Analysis 📊💼
+**Sales and Finance Analysis** 📊💼
 Project Overview ♻
 AtliQ Hardware, a global leader in PC components and peripherals, faced challenges in optimizing sales performance and boosting net profit margins. The project focused on analyzing over half a million disorganized sales records using ETL techniques to derive actionable insights. The goal was to enhance business strategies and enable informed decision-making by tracking key performance indicators (KPIs) like net sales and gross margins.
 
