@@ -25,18 +25,24 @@ Conducted Gross Margin Percentage (GM%) analysis to highlight profitable product
 Created visual reports to aid stakeholders in strategic decision-making.  
 
 # Key Insights and Results 📊
-**✔ Top Client:** Amazon emerged as the top-performing customer with $82.1 million in net sales in 2021.
-**✔ Market Leader:** India ranked highest in net sales, contributing $161.3 million in 2021.
+**✔ Top Client:** Amazon emerged as the top-performing customer with $82.1 million in net sales in 2021. 
+
+**✔ Market Leader:** India ranked highest in net sales, contributing $161.3 million in 2021.  
+
 **✔ Product Insights:**  
 AQ Mx NB saw the highest growth in net sales (2020–2021).  
 
-AQ Qwerty became the best-selling product among 16 new launches in 2021, achieving $22 million in sales.
-**✔ Seasonal Trends:** Significant sales spikes occurred from October to December, indicating peak demand periods.
-**✔ Division Performance:** The P&A division recorded $338.4 million in net sales, leading in 2021.
-# Technologies Used ⚙
-**Tools:** Excel, Power Query, Power Pivot, Power BI  
+AQ Qwerty became the best-selling product among 16 new launches in 2021, achieving $22 million in sales.  
 
-**Techniques:** ETL, Star Schema Design, DAX for custom calculations, Conditional Formatting
+**✔ Seasonal Trends:** Significant sales spikes occurred from October to December, indicating peak demand periods.  
+
+**✔ Division Performance:** The P&A division recorded $338.4 million in net sales, leading in 2021.  
+
+# Technologies Used ⚙
+**Tools:** Excel, Power Query, Power Pivot, Power BI   
+
+**Techniques:** ETL, Star Schema Design, DAX for custom calculations, Conditional Formatting  
+
 # Key Takeaways 💡
 This project highlighted the importance of structured data and advanced analytics in uncovering opportunities for growth. The use of dynamic dashboards, detailed financial reports, and targeted insights enabled AtliQ Hardware to refine sales strategies, monitor KPIs, and improve overall performance.
 
